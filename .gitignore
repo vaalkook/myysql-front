@@ -5,3 +5,6 @@ ca.pem
 .env
 .env
 .env
+node_modules
+.env.example
+echo
